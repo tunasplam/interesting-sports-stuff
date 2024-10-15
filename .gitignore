@@ -1,0 +1,10 @@
+lahman/
+fangraphs/
+.vscode/
+lahman_1871-2023_csv.7z
+readme2023.txt
+
+bb.db
+
+baseball_testing.ipynb
+worst_blowouts_ever.ipynb
